@@ -1,0 +1,21 @@
+.formContainet {
+  width: 50%;
+  margin: 100px auto;
+  background-color: #fff6e9ea;
+  height: auto;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px -2px rgb(51, 45, 45);
+  text-align: center;
+}
+.formContainet li {
+  width: 90%;
+  background-color: rgb(250, 244, 239);
+  margin: 10px auto;
+  border: 1px solid black;
+  color: black;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+}
